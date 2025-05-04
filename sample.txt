@@ -1,0 +1,2 @@
+This is a check file for git setup
+npx create-react-app qtify
